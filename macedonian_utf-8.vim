@@ -86,6 +86,7 @@ E$	<char-0x20AC>	" EURO SIGN
 
 `e	ѐ
 `i	ѝ
+`I	Ѝ
 `o	ò
 ``	’
 
