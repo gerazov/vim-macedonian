@@ -2,7 +2,7 @@
 
 Vim spellcheck dictionary and keymap for Macedonian.
 
-<img src="./vim-macedonian.gif" width="500px" />
+![vim-macedonian demo](./vim-macedonian.gif)
 
 ### Keymap
 
